@@ -20,8 +20,9 @@ switch ($_POST['operand']) {
 }
 ?>
 
+<div>
+    <button id="myBtn">Go back</button>
+</div>
 
-<button id="myBtn">Go back</button>
 
-
-<script type="text/javascript" src="/index.js"></script>
+<script type="text/javascript" src="/penpineappleapplepen/src/index.js"></script>
